@@ -1,0 +1,8 @@
+name: alg-ii
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - jupyterlab
+  - numpy
