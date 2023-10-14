@@ -1,0 +1,6 @@
+
+Boa noite!
+
+Este é meu arquivo.txt criado em Python
+
+Abraço!
